@@ -26,7 +26,6 @@ A seamless translation engine with intelligent source language identification.
 * **Stack:** AWS Lambda, Boto3, HTML5 Interaction.
 
 ---
----
 
 ## Live Demos
 Experience the power of these tools in real-time:
