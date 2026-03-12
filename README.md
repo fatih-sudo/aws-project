@@ -1,4 +1,4 @@
-# 🚀 AWS PROJECT
+# AWS PROJECT
 ### Developed by **MUHAMMAD ALFATIH**
 
 Welcome to my AWS exploration hub! This repository contains a collection of serverless micro-services built using **AWS Lambda** and **Python**. Each project demonstrates the power of integrating cloud-native AI services to solve real-world challenges.
