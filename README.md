@@ -26,6 +26,15 @@ A seamless translation engine with intelligent source language identification.
 * **Stack:** AWS Lambda, Boto3, HTML5 Interaction.
 
 ---
+---
+
+## Live Demos
+Experience the power of these tools in real-time:
+* [Link Validator](https://djjpfdukwxg5gtzk2j6atrrm2i0huhgj.lambda-url.us-east-1.on.aws/)
+* [Image Analyzer](https://kzxt3gh4a2pxzlwn4tm5xyenea0yujfx.lambda-url.us-east-2.on.aws/)
+* [Smart Translator](https://chifauwy4cf442nabzvtg7lb4y0akolg.lambda-url.us-east-2.on.aws/)
+
+---
 
 ## Architecture Philosophy
 All projects in this repository follow the **Serverless First** principle:
