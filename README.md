@@ -45,7 +45,7 @@ All projects in this repository follow the **Serverless First** principle:
 
 ---
 
-## 👨‍💻 About the Author
+## About the Author
 **Muhammad Alfatih**
 A Cloud Computing enthusiast focused on building secure, scalable, and intelligent applications on AWS. 
 
